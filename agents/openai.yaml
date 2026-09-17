@@ -1,0 +1,4 @@
+interface:
+  display_name: "COMSOL PeLED Reproduction & Calibration"
+  short_description: "Reproduce and calibrate auditable PeLED models"
+  default_prompt: "Use $peled-model-skill to reproduce and calibrate this PeLED model while auditing numerical convergence, identifiability, and claim boundaries."
